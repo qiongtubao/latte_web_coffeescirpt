@@ -1,0 +1,10 @@
+{
+	"name": "latte_web_coffeescript_demo",
+	"version": "0.0.1",
+	
+	"dependencies": {
+		"latte_webServer4": "*",
+		"latte_lib":"*"
+
+	}
+}

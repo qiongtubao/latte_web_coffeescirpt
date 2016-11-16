@@ -1,0 +1,17 @@
+{
+	"name": "latte_web_coffeescript",
+	"version": "0.0.1",
+	"description": "latte_web_coffeescript",
+	"keywords": ["latte_web_coffeescript"],
+	"author": "qiongtubao",
+	"main": "index.js",
+	"repository": {
+		"type": "git",
+		"url":"https://github.com/qiongtubao/latte_web_coffeescript.git"
+	}	,
+	"dependencies": {
+		"coffee-script": "*",
+		"latte_lib":"*"
+
+	}
+}
